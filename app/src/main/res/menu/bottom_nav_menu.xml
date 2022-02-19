@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/Todo"
+    android:title="Todo"
+    android:icon="@drawable/todo"/>
+<item android:id="@+id/placeholder"
+    android:title=""/>
+    <item android:id="@+id/Done"
+        android:title="Done"
+        android:icon="@drawable/done"/>
+</menu>
